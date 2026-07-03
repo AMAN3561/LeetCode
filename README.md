@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AMAN3561/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
