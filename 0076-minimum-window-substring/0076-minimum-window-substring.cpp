@@ -13,9 +13,9 @@ public:
             hash[t[i]]++;
         }
         while(r<m){
-            if(hash[s[r]] > 0)
+            if(hash[s[r]] > 0){
                 count++;
-            
+            }
             hash[s[r]]--;
             
             while(count == n){
@@ -25,8 +25,9 @@ public:
                 }
                 hash[s[l]]++;
 
-                if(hash[s[l]] > 0)
+                if(hash[s[l]] > 0){
                     count--;
+                }
                 l++;   
             }
             r++;
