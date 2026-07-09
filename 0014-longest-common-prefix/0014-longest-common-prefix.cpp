@@ -11,7 +11,7 @@ public:
             // for comapring ch with rest of the strings 
             for(int j = 1; j<n; j++){
                 // not match 
-                if(strs[j].size() < i || ch != strs[j][i]){
+                if(strs[j].size() <= i || ch != strs[j][i]){
                     match = false;
                     break;
                 }
