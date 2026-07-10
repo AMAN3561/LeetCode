@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AMAN3561/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/AMAN3561/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AMAN3561/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/AMAN3561/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/AMAN3561/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/AMAN3561/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AMAN3561/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AMAN3561/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
