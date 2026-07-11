@@ -18,6 +18,6 @@ public:
             num = num*10 + (s[i] - '0');
             i++;
         }
-        return num*sign;
+        return sign*num;
     }
 };
