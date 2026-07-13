@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AMAN3561/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AMAN3561/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AMAN3561/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AMAN3561/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/AMAN3561/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AMAN3561/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AMAN3561/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AMAN3561/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Counting
