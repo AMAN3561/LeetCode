@@ -12,38 +12,53 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        int count = 0;
+        // base case :
         if(root == NULL){
             return 0;
         }
-        queue<TreeNode*> q;
-        q.push(root);
-        // using null as a marker.
-        q.push(NULL);
-        while(!q.empty()){
-            TreeNode* front = q.front();
-            q.pop();
-            if(front == NULL){
-                // current level ke saare value print ho chuki hai 
-                cout<<endl;
-                // aagar q empty h, then dont insert NULL
-                // aagar inseert hua toh infinite loop mai chale gyenge.
-                if(!q.empty()){
-                    q.push(NULL);
-                }
-                count++;
-            }
-            else{
-                cout<< front->val <<" ";
+        int leftheight = maxDepth(root->left) + 1;
+        int rightheight = maxDepth(root->right) + 1;
 
-                if(front->left != NULL){
-                    q.push(front->left);
-                }
-                if(front->right != NULL){
-                    q.push(front->right);
-                }
-            }
-        }
-        return count;
+        int ans = max(leftheight, rightheight);
+        return ans;
     }
 };
+
+
+
+
+
+
+// if(root == NULL){
+//             return 0;
+//         }
+//         int count = 0;
+//         queue<TreeNode*> q;
+//         q.push(root);
+//         // using null as a marker.
+//         q.push(NULL);
+//         while(!q.empty()){
+//             TreeNode* front = q.front();
+//             q.pop();
+//             if(front == NULL){
+//                 // current level ke saare value print ho chuki hai 
+//                 cout<<endl;
+//                 // aagar q empty h, then dont insert NULL
+//                 // aagar inseert hua toh infinite loop mai chale gyenge.
+//                 if(!q.empty()){
+//                     q.push(NULL);
+//                 }
+//                 count++;
+//             }
+//             else{
+//                 cout<< front->val <<" ";
+
+//                 if(front->left != NULL){
+//                     q.push(front->left);
+//                 }
+//                 if(front->right != NULL){
+//                     q.push(front->right);
+//                 }
+//             }
+//         }
+//         return count;
