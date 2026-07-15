@@ -22,7 +22,7 @@ public:
         if(root == NULL) return true;
         int leftH = maxdepth(root->left);
         int rightH = maxdepth(root->right);
-        int ans = abs(leftH - rightH);
+        //...
         return abs(leftH - rightH) <= 1 &&
                 isBalanced(root->left) &&
                 isBalanced(root->right);
