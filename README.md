@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AMAN3561/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AMAN3561/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AMAN3561/LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AMAN3561/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/AMAN3561/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/AMAN3561/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AMAN3561/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AMAN3561/LeetCode/tree/master/0113-path-sum-ii) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AMAN3561/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AMAN3561/LeetCode/tree/master/0113-path-sum-ii) |
@@ -157,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
