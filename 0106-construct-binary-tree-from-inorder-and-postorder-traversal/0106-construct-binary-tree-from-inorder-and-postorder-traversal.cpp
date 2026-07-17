@@ -11,14 +11,7 @@
  */
 class Solution {
 public:
-    int getIndex(int element , vector<int> arr){
-        for(int i = 0; i<arr.size(); i++){
-            if(arr[i] == element){
-                return i;
-            }
-        }
-        return -1;
-    }
+    unordered_map<int, int> inorderMap;
     TreeNode* build(vector<int>& inorder, vector<int>& postorder, int& postorderIndex, int inorderStart, int inorderEnd){
         if(postorderIndex < 0){
             return NULL;
@@ -31,12 +24,15 @@ public:
         postorderIndex--;
 
         TreeNode* root = new TreeNode(element);
-        int elementIndexInsideInorder = getIndex(element, inorder);
+        int elementIndexInsideInorder = inorderMap[element];
         root->right = build(inorder, postorder, postorderIndex, elementIndexInsideInorder + 1, inorderEnd);
         root->left = build(inorder, postorder, postorderIndex, inorderStart, elementIndexInsideInorder - 1);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        for(int i = 0; i<inorder.size(); i++){
+            inorderMap[inorder[i]] = i;
+        }
         int postorderIndex = postorder.size() -1;
         int inorderStart = 0;
         int inorderEnd = inorder.size()-1;
