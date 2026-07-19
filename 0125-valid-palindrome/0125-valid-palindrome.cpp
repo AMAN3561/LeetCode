@@ -27,7 +27,6 @@ public:
     }
     bool isPalindrome(string s) {
         string newstr = normaliseString(s);
-        cout<< newstr;
         int i = 0;
         int j = newstr.length() - 1;
         while(i <= j){
