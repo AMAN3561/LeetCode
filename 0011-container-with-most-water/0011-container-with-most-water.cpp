@@ -9,15 +9,16 @@ public:
         int j = height.size()- 1;
         while(i <= j){
             minheight = min(height[i], height[j]);
+            width = j - i;
+            area = minheight * width;
+            maxarea = max(maxarea, area);
             if(height[i] < height[j]){
                 i++;
             }
             else{
                 j--;
             }
-            width = j - i + 1;
-            area = minheight * width;
-            maxarea = max(maxarea, area);
+            
         }
         return maxarea;
     }
