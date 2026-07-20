@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AMAN3561/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AMAN3561/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/AMAN3561/LeetCode/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AMAN3561/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AMAN3561/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/AMAN3561/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AMAN3561/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AMAN3561/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/AMAN3561/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
