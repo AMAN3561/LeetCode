@@ -4,7 +4,7 @@ public:
         int sum = 0;
         sort(nums.begin(), nums.end());
         int bestsum = nums[0] + nums[1] + nums[2];
-        for(int i = 0; i<nums.size(); i++){
+        for(int i = 0; i<nums.size()-2; i++){
             int j = i+1;
             int k = nums.size()-1;
             while(j < k){
@@ -14,7 +14,6 @@ public:
                 if(c1 < c2){
                     bestsum = sum;
                 }
-
                 if(sum == target){
                     return sum;
                 }
