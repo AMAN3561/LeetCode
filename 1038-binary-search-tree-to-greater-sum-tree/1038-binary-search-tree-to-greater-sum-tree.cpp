@@ -45,14 +45,9 @@ public:
         makeInorder(root, inorder);
         int n = inorder.size();
         // step 2 : update inorder as per question.
-        for(int i = n-1; i>=0; i--){
-            int currValue = inorder[i];
-            int nextVal = 0;
-            if(i + 1 < n){
-                nextVal = inorder[i + 1];
-            }
-            int sum = currValue + nextVal;
-            // replacement :
+        int sum = 0;
+        for(int i = n - 1; i >= 0; i--){
+            sum += inorder[i];
             inorder[i] = sum;
         }
         // step 3 : update tree using inorder
