@@ -23,7 +23,7 @@ public:
         count++;
         if(count == k){
             ans = root;
-            return;
+            // return;
         }
         // R :
         solve(root->right, k, count, ans);
