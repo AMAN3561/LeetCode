@@ -13,20 +13,18 @@ public:
         if(root == NULL){
             return NULL;
         }
-        if(root == p){
+        if(root->val == p->val){
             return p;
         }
-        if(root == q){
+        if(root->val == q->val){
             return q;
         }
-
         TreeNode* leftans = lowestCommonAncestor(root->left, p, q);
         TreeNode* rightans = lowestCommonAncestor(root->right, p, q);
-
+        
         if(leftans == NULL && rightans == NULL){
             return NULL;
         }
-
         else if(leftans == NULL && rightans != NULL){
             return rightans;
         }
