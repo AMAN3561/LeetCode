@@ -23,10 +23,6 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         vector<int> inorder;
         makeInorder(root, inorder);
-        int ans = -1;
-        for(int i = 0; i<inorder.size(); i++){
-            ans = inorder[k-1];
-        }
-        return ans;
+        return inorder[k-1];
     }
 };
