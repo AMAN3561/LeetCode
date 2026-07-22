@@ -255,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/AMAN3561/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AMAN3561/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
