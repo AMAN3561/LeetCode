@@ -15,7 +15,8 @@ public:
         int fast = n;
         do {
             slow = getNext(slow);
-            fast = getNext(getNext(fast));
+            fast = getNext(fast);
+            fast = getNext(fast);
         } while (slow != fast);
         return slow == 1;
     }
