@@ -12,17 +12,12 @@
 class Solution {
 public:
     void InorderTraversal(TreeNode* root, int low, int high, int& sum){
-        vector<int> arr;
         if(root == nullptr) return;
         InorderTraversal(root->left, low, high, sum);
-        arr.push_back(root->val);
-        InorderTraversal(root->right, low, high, sum);
-
-        for(int i = 0; i<arr.size(); i++){
-            if(arr[i] >= low && arr[i] <= high){
-                sum += arr[i];
+        if(root->val >= low && root->val <= high){
+                sum += root->val;
             }
-        }
+        InorderTraversal(root->right, low, high, sum);
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
         int sum = 0;
