@@ -13,9 +13,12 @@ class Solution {
 public:
     void solve(TreeNode* root, vector<int>& inorder){
         if(root == nullptr) return ;
-
-        solve(root->left, inorder);
+        // LNR :
+        // L :
+        solve(root->left, inorder); 
+        // N : 
         inorder.push_back(root->val);
+        // R :
         solve(root->right, inorder);
     }
     void buldTree(TreeNode* root, vector<int>& inorder, int& index){
@@ -31,7 +34,18 @@ public:
         vector<int> inorder;
         int index = 0;
         solve(root, inorder);
-        sort(inorder.begin(), inorder.end());
+        // sort(inorder.begin(), inorder.end());
+        int first = -1;
+        int second = -1;
+        for (int i = 0; i < inorder.size() - 1; i++) {
+            if (inorder[i] > inorder[i + 1]) {
+                if (first == -1) {
+                    first = i;
+                }
+            second = i + 1;
+        }
+}
+swap(inorder[first], inorder[second]);
         buldTree(root, inorder, index);
     }
 };
