@@ -11,25 +11,49 @@
  */
 class Solution {
 public:
-    void InorderTraversal(TreeNode* root, vector<int>& arr){
-        if(root == nullptr) return;
+    bool InorderTraversal(TreeNode* root, TreeNode*& prev){
+        if(root == nullptr) return true;
 
         // L:
-        InorderTraversal(root->left, arr);
+        if (!InorderTraversal(root->left, prev))
+            return false;
         // N :
-        arr.push_back(root->val);
+        if (prev != nullptr && root->val <= prev->val)
+            return false;
+
+        prev = root;
         // R :
-        InorderTraversal(root->right, arr);
+        return InorderTraversal(root->right, prev);
+
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> arr;
-        InorderTraversal(root, arr);
-
-        for(int i = 1; i<arr.size(); i++){
-            if(arr[i] <= arr[i - 1]){
-                return false;
-            }
-        }
-        return true;
+        TreeNode* prev = nullptr;
+        return InorderTraversal(root, prev);
     }
 };
+
+
+// class Solution {
+// public:
+//     void InorderTraversal(TreeNode* root, vector<int>& arr){
+//         if(root == nullptr) return;
+
+//         // L:
+//         InorderTraversal(root->left, arr);
+//         // N :
+//         arr.push_back(root->val);
+//         // R :
+//         InorderTraversal(root->right, arr);
+//     }
+//     bool isValidBST(TreeNode* root) {
+//         vector<int> arr;
+//         InorderTraversal(root, arr);
+
+//         for(int i = 1; i<arr.size(); i++){
+//             if(arr[i] <= arr[i - 1]){
+//                 return false;
+//             }
+//         }
+//         return true;
+//     }
+// };
