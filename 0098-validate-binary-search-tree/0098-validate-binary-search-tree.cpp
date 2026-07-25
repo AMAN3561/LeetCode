@@ -10,31 +10,50 @@
  * };
  */
 class Solution {
-public:
-    bool InorderTraversal(TreeNode* root, TreeNode*& prev){
+public: // M-II :
+    bool solve(TreeNode* root, long long leftBoundary, long long rightBoundary){
         if(root == nullptr) return true;
 
-        // L:
-        if (!InorderTraversal(root->left, prev))
-            return false;
         // N :
-        if (prev != nullptr && root->val <= prev->val)
-            return false;
-
-        prev = root;
-        // R :
-        return InorderTraversal(root->right, prev);
-
+        bool isCurrentNodeOk = root->val > leftBoundary && root->val < rightBoundary;
+        bool ansFromLeft = solve(root->left, leftBoundary, root->val);
+        bool ansFromRight = solve(root->right, root->val, rightBoundary);
+        return isCurrentNodeOk && ansFromLeft && ansFromRight;
     }
     bool isValidBST(TreeNode* root) {
-        TreeNode* prev = nullptr;
-        return InorderTraversal(root, prev);
+        long long leftBoundary = LONG_MIN;
+        long long rightBoundary = LONG_MAX;
+        return solve(root, leftBoundary, rightBoundary);
     }
 };
 
 
 // class Solution {
-// public:
+// public: // M-II :
+//     bool InorderTraversal(TreeNode* root, TreeNode*& prev){
+//         if(root == nullptr) return true;
+
+//         // L:
+//         if (!InorderTraversal(root->left, prev))
+//             return false;
+//         // N :
+//         if (prev != nullptr && root->val <= prev->val)
+//             return false;
+
+//         prev = root;
+//         // R :
+//         return InorderTraversal(root->right, prev);
+
+//     }
+//     bool isValidBST(TreeNode* root) {
+//         TreeNode* prev = nullptr;
+//         return InorderTraversal(root, prev);
+//     }
+// };
+
+
+// class Solution {
+// public: M-I :
 //     void InorderTraversal(TreeNode* root, vector<int>& arr){
 //         if(root == nullptr) return;
 
