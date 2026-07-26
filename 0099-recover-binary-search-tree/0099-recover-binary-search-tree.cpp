@@ -11,7 +11,7 @@
  * };
  */
 class Solution {
-public:
+public: // use morris traversal intead of recursion.
     TreeNode* first = nullptr;
     TreeNode* second = nullptr;
     TreeNode* prev = nullptr;
@@ -24,7 +24,7 @@ public:
         // N :
         //.. violationg nodes detection :
         if (prev != nullptr && root->val < prev->val) {
-            if (!first) {
+            if (first == nullptr) {
                 first = prev; // first violating node
             }
             second = root; // second violation node
