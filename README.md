@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AMAN3561/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AMAN3561/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AMAN3561/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AMAN3561/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/AMAN3561/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AMAN3561/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AMAN3561/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AMAN3561/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/AMAN3561/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AMAN3561/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AMAN3561/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AMAN3561/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AMAN3561/LeetCode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/AMAN3561/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
