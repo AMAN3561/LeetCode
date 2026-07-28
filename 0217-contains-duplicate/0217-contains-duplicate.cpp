@@ -17,9 +17,7 @@ public:
             if(s.find(nums[i]) != s.end()){
                 return true;
             }
-            else{
-                s.insert(nums[i]);
-            }
+            s.insert(nums[i]);
         }
         return false;
     }
