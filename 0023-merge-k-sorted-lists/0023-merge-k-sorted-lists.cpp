@@ -20,19 +20,21 @@
 // }
 class Compare {
 public:
-    bool operator()(ListNode* LLvalue, ListNode* rowvalue) {
-        return LLvalue->val > rowvalue->val;
+    bool operator()(ListNode* a, ListNode* b) {
+        return a->val > b->val;
     }
 };
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
+
         ListNode* headNode = nullptr;
         ListNode* tailNode = nullptr;
         // process the first k elements :
         // haar list ka phle element pq mai insert krna hai.
         int totalrows = lists.size();
+        
         for(int row = 0; row < totalrows; row++){
             ListNode* temp = lists[row];
             if(temp != nullptr){
