@@ -26,7 +26,6 @@ public:
         int mini = INT_MAX;
         // process the first k elements 
         int totalrows = nums.size();
-        int totalcols = nums[0].size();
 
         for(int row = 0; row<totalrows; row++){
             int element = nums[row][0];
