@@ -9,7 +9,7 @@ public:
                 st.push(ch);
             }
             else{
-                if(!st.empty() && st.top() == ch){
+                if(st.top() == ch){
                     st.pop();
                 }
                 else{
@@ -18,7 +18,7 @@ public:
             }
         }
         while(!st.empty()){
-            int element = st.top();
+            char element = st.top();
             st.pop();
             ans.push_back(element);
         }
