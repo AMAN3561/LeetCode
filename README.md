@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AMAN3561/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AMAN3561/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AMAN3561/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AMAN3561/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
