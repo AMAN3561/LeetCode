@@ -1,3 +1,17 @@
+class Solution {
+public:
+    string removeDuplicates(string s) {
+        int j = 0;
+        for (int i = 0; i < s.length(); i++) {
+            s[j] = s[i];
+            if (j > 0 && s[j] == s[j - 1]) {
+                j -= 2;   // Remove both duplicate characters
+            }
+            j++;
+        }
+        return s.substr(0, j);
+    }
+};
 // class Solution {
 // public:
 //     string removeDuplicates(string s) {
@@ -28,20 +42,7 @@
 // };
 
 
-class Solution {
-public:
-    string removeDuplicates(string s) {
-        int j = 0;
-        for (int i = 0; i < s.size(); i++) {
-            s[j] = s[i];
-            if (j > 0 && s[j] == s[j - 1]) {
-                j -= 2;   // Remove both duplicate characters
-            }
-            j++;
-        }
-        return s.substr(0, j);
-    }
-};
+
 
 
 // class Solution {
