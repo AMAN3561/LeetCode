@@ -1,34 +1,47 @@
+// class Solution {
+// public:
+//     string removeDuplicates(string s) {
+//         stack<char> st;
+//         string ans = "";
+//         for(int i = 0; i<s.length(); i++){
+//             char ch = s[i];
+//             if(st.empty()){
+//                 st.push(ch);
+//             }
+//             else{
+//                 if(st.top() == ch){
+//                     st.pop();
+//                 }
+//                 else{
+//                     st.push(ch);
+//                 }
+//             }
+//         }
+//         while(!st.empty()){
+//             char element = st.top();
+//             st.pop();
+//             ans.push_back(element);
+//         }
+//         reverse(ans.begin(), ans.end());
+//         return ans;
+//     }
+// };
+
+
 class Solution {
 public:
     string removeDuplicates(string s) {
-        stack<char> st;
-        string ans = "";
-        for(int i = 0; i<s.length(); i++){
-            char ch = s[i];
-            if(st.empty()){
-                st.push(ch);
+        int j = 0;
+        for (int i = 0; i < s.size(); i++) {
+            s[j] = s[i];
+            if (j > 0 && s[j] == s[j - 1]) {
+                j -= 2;   // Remove both duplicate characters
             }
-            else{
-                if(st.top() == ch){
-                    st.pop();
-                }
-                else{
-                    st.push(ch);
-                }
-            }
+            j++;
         }
-        while(!st.empty()){
-            char element = st.top();
-            st.pop();
-            ans.push_back(element);
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
+        return s.substr(0, j);
     }
 };
-
-
-
 
 
 // class Solution {
