@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Trie
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
