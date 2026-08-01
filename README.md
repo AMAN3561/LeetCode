@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AMAN3561/LeetCode/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Counting
 |  |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AMAN3561/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Quickselect
 |  |
 | ------- |
