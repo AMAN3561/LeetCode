@@ -60,7 +60,7 @@
 
 
 class Solution {
-public: // using minheap:
+public: // using bucket sort
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
         unordered_map<int, int> mp;
