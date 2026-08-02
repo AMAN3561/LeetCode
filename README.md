@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AMAN3561/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/AMAN3561/LeetCode/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AMAN3561/LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
