@@ -31,6 +31,11 @@ public:
         }
         // general answer 
         reverse(ans.begin(), ans.end());
-        return ans == "" ? "0" : ans;
+        if(ans == ""){
+            return "0";
+        }
+        else{
+            return ans;
+        }
     }
 };
