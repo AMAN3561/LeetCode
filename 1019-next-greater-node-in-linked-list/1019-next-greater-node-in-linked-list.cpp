@@ -1,14 +1,5 @@
 class Solution {
 public:
-    int getleng(ListNode* head){
-        ListNode* temp = head;
-        int count = 0;
-        while(temp != nullptr){
-            count++;
-            temp = temp->next;
-        }
-        return count;
-    }
     vector<int> nextLargerNodes(ListNode* head) {
         vector<int> arr;
         while(head != nullptr){
