@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AMAN3561/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/AMAN3561/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AMAN3561/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/AMAN3561/LeetCode/tree/master/1046-last-stone-weight) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AMAN3561/LeetCode/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AMAN3561/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-sort-array-by-parity](https://github.com/AMAN3561/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/AMAN3561/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/AMAN3561/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AMAN3561/LeetCode/tree/master/1046-last-stone-weight) |
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Quickselect
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AMAN3561/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -461,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AMAN3561/LeetCode/tree/master/0735-asteroid-collision) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
