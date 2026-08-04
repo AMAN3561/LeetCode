@@ -12,7 +12,8 @@ public:
             int y = maxheap.top();
             maxheap.pop();
             if(x != y){
-                maxheap.push(x - y);
+                int NewStoneWeight = x - y;
+                maxheap.push(NewStoneWeight);
             }
         }
         if(maxheap.size() != 0){
