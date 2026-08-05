@@ -9,14 +9,14 @@ public:
             }
     };
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<pair<int, int>, vector<pair<int, int>>, comp> pq;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, comp> pq; // min heap
         vector<vector<int>> ans;
 
         for(auto point : points){
             pq.push({point[0], point[1]});
         }
         while(!pq.empty() && k){
-            auto& topPoints = pq.top();
+            auto topPoints = pq.top();
             ans.push_back({topPoints.first, topPoints.second});
             pq.pop();
             k--;
