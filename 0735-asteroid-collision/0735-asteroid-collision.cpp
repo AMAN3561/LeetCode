@@ -3,7 +3,7 @@ public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         stack<int> st;
         for(auto ast : asteroids){
-            bool destroy = false;// initially nothing is destroyed. 
+            bool destroy = false; // initially nothing is destroyed. 
             if(ast > 0){
                 st.push(ast);
             }
