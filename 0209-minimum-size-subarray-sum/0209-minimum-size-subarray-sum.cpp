@@ -9,7 +9,6 @@ public:
             sum += nums[right];
             while(sum >= target){
                 minimumlength = min(minimumlength, right - left + 1);
-
                 sum -= nums[left];
                 left++;
             }
