@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AMAN3561/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AMAN3561/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AMAN3561/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AMAN3561/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AMAN3561/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/AMAN3561/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
 | ------- |
