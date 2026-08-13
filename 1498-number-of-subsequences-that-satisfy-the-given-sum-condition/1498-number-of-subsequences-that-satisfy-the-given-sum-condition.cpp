@@ -4,7 +4,7 @@ public:
         int left_pointer = 0;
         int right_pointer = nums.size() - 1;
         long long non_empty_subsequent = 0;
-        const int MOD = 1e9 + 7;
+        int MOD = 1e9 + 7;
         sort(nums.begin(), nums.end());
         vector<long long> power(nums.size());
         power[0] = 1;
