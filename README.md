@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AMAN3561/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AMAN3561/LeetCode/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/AMAN3561/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/AMAN3561/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/AMAN3561/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/AMAN3561/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AMAN3561/LeetCode/tree/master/0443-string-compression) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/AMAN3561/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/AMAN3561/LeetCode/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AMAN3561/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Geometry
