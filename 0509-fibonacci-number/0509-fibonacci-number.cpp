@@ -15,18 +15,22 @@ public:
     }
     int solveUsingIterative(int n){
         // CREATE THE DP ARRAY :
-        vector<int> dp(n+1, -1);
+        // vector<int> dp(n+1, -1);
         // ANALYZE THE BASE CASES AND FILL THE DP ARRAY.
+        // MORE SPACE OPTIMAZATION BY USING SPACE NEEDED FOR THE OPERATION :
         if(n == 0) return 0;
         if(n == 1) return 1;
-        dp[0] = 0;
-        dp[1] = 1;
-        
+        int prev2 = 0;
+        int prev1 = 1;
+        int curr = -1;
+
         for(int i = 2; i<=n; i++){
-            int ans = dp[i-1] + dp[i-2];
-            dp[i] = ans;
+            curr = prev2 + prev1;
+            // YAHA UPDATION YAAD RAKHNA HAI.
+            prev2 = prev1;
+            prev1 = curr;
         }
-        return dp[n];
+        return curr;
     }
     int fib(int n) {
         // STEP 1:-> FIGURE OUT THE TYPE OF DP.
