@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AMAN3561/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Math
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Stack
 |  |
 | ------- |
