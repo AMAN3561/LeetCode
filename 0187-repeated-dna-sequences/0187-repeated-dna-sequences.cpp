@@ -11,9 +11,9 @@ public:
             seqcount[current_sub_string]++;
         }
         // iterate over the map :
-        for(auto [substr, freq] : seqcount){
+        for(auto& [Repeated_DNA, freq] : seqcount){
             if(freq > 1){
-                ans.push_back(substr);
+                ans.push_back(Repeated_DNA);
             }
         }
         return ans;
