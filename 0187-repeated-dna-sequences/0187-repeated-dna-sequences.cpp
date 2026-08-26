@@ -11,7 +11,7 @@ public:
             seqcount[current_sub_string]++;
         }
         // iterate over the map :
-        for(auto& [Repeated_DNA, freq] : seqcount){
+        for(auto& [Repeated_DNA, freq] : seqcount){ // using string by reference to avoid copying of string.
             if(freq > 1){
                 ans.push_back(Repeated_DNA);
             }
