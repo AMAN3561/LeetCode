@@ -20,7 +20,7 @@ class NestedIterator {
 public:
     queue<int> flattenQ;
     void flatten(vector<NestedInteger> &nestedList){
-        for(auto item : nestedList){
+        for(NestedInteger item : nestedList){
             if(item.isInteger()){
                 flattenQ.push(item.getInteger());
             }
