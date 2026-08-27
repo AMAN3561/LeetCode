@@ -43,7 +43,6 @@ public:
     bool hasNext() {
         return !flattenQ.empty();
     }
-    ~NestedIterator(){}
 };
 /**
  * Your NestedIterator object will be instantiated and called as such:
