@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/AMAN3561/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AMAN3561/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/AMAN3561/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/AMAN3561/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
