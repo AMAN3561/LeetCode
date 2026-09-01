@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AMAN3561/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/AMAN3561/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AMAN3561/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/AMAN3561/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AMAN3561/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/AMAN3561/LeetCode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/AMAN3561/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/AMAN3561/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AMAN3561/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AMAN3561/LeetCode/tree/master/0621-task-scheduler) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AMAN3561/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/AMAN3561/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/AMAN3561/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AMAN3561/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AMAN3561/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AMAN3561/LeetCode/tree/master/0724-find-pivot-index) |
