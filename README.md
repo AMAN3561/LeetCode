@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AMAN3561/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AMAN3561/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AMAN3561/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/AMAN3561/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AMAN3561/LeetCode/tree/master/0389-find-the-difference) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/AMAN3561/LeetCode/tree/master/0437-path-sum-iii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/AMAN3561/LeetCode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AMAN3561/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AMAN3561/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/AMAN3561/LeetCode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AMAN3561/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AMAN3561/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AMAN3561/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -552,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AMAN3561/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/AMAN3561/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/AMAN3561/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/AMAN3561/LeetCode/tree/master/0355-design-twitter) |
