@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AMAN3561/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AMAN3561/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AMAN3561/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AMAN3561/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AMAN3561/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/AMAN3561/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AMAN3561/LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/AMAN3561/LeetCode/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
