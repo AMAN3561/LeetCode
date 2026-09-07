@@ -21,7 +21,7 @@ public:
                 return true;
             }
         }
-        board[i][j] = temp;
+        board[i][j] = temp; // backtracking :
         return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
