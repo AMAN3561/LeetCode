@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AMAN3561/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/AMAN3561/LeetCode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AMAN3561/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AMAN3561/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AMAN3561/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/AMAN3561/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AMAN3561/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AMAN3561/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/AMAN3561/LeetCode/tree/master/0279-perfect-squares) |
