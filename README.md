@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AMAN3561/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AMAN3561/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AMAN3561/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/AMAN3561/LeetCode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/AMAN3561/LeetCode/tree/master/0212-word-search-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AMAN3561/LeetCode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/AMAN3561/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/AMAN3561/LeetCode/tree/master/0389-find-the-difference) |
