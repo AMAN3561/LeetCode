@@ -3,8 +3,6 @@ public:
     int maximumWealth(vector<vector<int>>& accounts) {
         int row = accounts.size();
         int cols = accounts[0].size();
-
-        
         int ans = 0;
         for(int i = 0; i< row; i++){
             int sum = 0;
