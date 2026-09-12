@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AMAN3561/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/AMAN3561/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/AMAN3561/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AMAN3561/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AMAN3561/LeetCode/tree/master/0078-subsets) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AMAN3561/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/AMAN3561/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AMAN3561/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AMAN3561/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AMAN3561/LeetCode/tree/master/0090-subsets-ii) |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AMAN3561/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
