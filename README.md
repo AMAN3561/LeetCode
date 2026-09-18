@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AMAN3561/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AMAN3561/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AMAN3561/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AMAN3561/LeetCode/tree/master/0075-sort-colors) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/AMAN3561/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/AMAN3561/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AMAN3561/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/AMAN3561/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/AMAN3561/LeetCode/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AMAN3561/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
