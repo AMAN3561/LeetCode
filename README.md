@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/AMAN3561/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/AMAN3561/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AMAN3561/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/AMAN3561/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/AMAN3561/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AMAN3561/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/AMAN3561/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
