@@ -32,6 +32,9 @@ public:
             int currX = currentNodeIndexPair.first;
             int currY = currentNodeIndexPair.second;
 
+            if(currX == destX && currY == destY){
+                return currDiff;
+            }
             int dx[] = {-1, 0, 1, 0};
             int dy[] = {0, 1, 0, -1};
             for(int i = 0; i<4; i++){
