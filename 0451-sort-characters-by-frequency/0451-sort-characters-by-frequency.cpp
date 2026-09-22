@@ -15,7 +15,7 @@ public:
         while(!pq.empty()){
             auto front = pq.top();
             pq.pop();
-            while(front.first){
+            while(front.first > 0){
                 ans.push_back(front.second);
                 front.first--;
             }
