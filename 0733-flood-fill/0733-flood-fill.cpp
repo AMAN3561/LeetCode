@@ -1,7 +1,7 @@
 class Solution {
 public: 
-    bool isSafe(int new_x, int new_y, vector<vector<int>>& image, vector<vector<bool>>& visited, int old_color){
-        if(new_x >= 0 && new_y >= 0 && new_x < image.size() && new_y < image[0].size() && image[new_x][new_y] == old_color && !visited[new_x][new_y]){
+    bool isSafe(int new_x, int new_y, vector<vector<bool>>& visited, int old_color, vector<vector<int>>& ans){
+        if(new_x >= 0 && new_y >= 0 && new_x < ans.size() && new_y < ans[0].size() && ans[new_x][new_y] == old_color && !visited[new_x][new_y]){
             return true;
         }
         else{
@@ -17,7 +17,7 @@ public:
         for(int i = 0; i<4; i++){
             int new_x = dx[i] + sr;
             int new_y = dy[i] + sc;
-            if(isSafe(new_x, new_y, image, visited, old_color)){
+            if(isSafe(new_x, new_y, visited, old_color, ans)){
                 dfstraversal(image, ans, visited, old_color, new_color, new_x, new_y);
             }
         }
