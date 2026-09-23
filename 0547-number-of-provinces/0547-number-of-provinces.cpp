@@ -40,7 +40,7 @@ public:
         int col = n;
 
         for(int nbrIdx = 0; nbrIdx<n; nbrIdx++){
-            if(isConnected[row][nbrIdx]){
+            if(isConnected[row][nbrIdx] == 1){
                 if(!visited[nbrIdx]){
                     bfstraversal(isConnected, nbrIdx, visited, n);
                 }
