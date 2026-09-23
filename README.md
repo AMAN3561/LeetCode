@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AMAN3561/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AMAN3561/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AMAN3561/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/AMAN3561/LeetCode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/AMAN3561/LeetCode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/AMAN3561/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AMAN3561/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AMAN3561/LeetCode/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/AMAN3561/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AMAN3561/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AMAN3561/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/AMAN3561/LeetCode/tree/master/0994-rotting-oranges) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
