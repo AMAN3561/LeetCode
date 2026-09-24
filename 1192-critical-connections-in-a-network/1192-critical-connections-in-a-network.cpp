@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void count_critical_connections(int parent, int src, int& time, unordered_map<int, bool>& visited, vector<int>& insertion_time, vector<int>& low_time, unordered_map<int, vector<int>>& adjList, vector<vector<int>>& ans){
+    void count_critical_connections(int parent, int src, int& time, vector<bool>& visited, vector<int>& insertion_time, vector<int>& low_time, vector<vector<int>>& adjList, vector<vector<int>>& ans){
         time++;
         visited[src] = true;
         insertion_time[src] = time;
@@ -16,9 +16,7 @@ public:
                 if(low_time[nbr] > insertion_time[src]){
                     vector<int> temp;
                     // bridge found: 
-                    temp.push_back(src);
-                    temp.push_back(nbr);
-                    ans.push_back(temp);
+                    ans.push_back({src, nbr});
                 }
             }
             else{
@@ -31,11 +29,11 @@ public:
         int parent = -1;
         int src = 0; 
         int time = 0;
-        unordered_map<int, bool> visited;
+        vector<bool> visited(n, false);
         vector<int> insertion_time(n);
         vector<int> low_time(n);
 
-        unordered_map<int, vector<int>> adjList;
+        vector<vector<int>> adjList(n);
         for(auto it: connections){
             int u = it[0];
             int v = it[1];
