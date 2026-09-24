@@ -20,7 +20,7 @@ public:
                 }
             }
             else{
-                low_time[src] = min(low_time[src], low_time[nbr]);
+                low_time[src] = min(low_time[src], insertion_time[nbr]);
             }
         }
     }
