@@ -3,7 +3,6 @@ public:
     int smallestIndex(vector<int>& nums) {
         for(int i = 0; i<nums.size(); i++){
             if(nums[i] > 9){
-                cout<<nums[i]<<endl;
                 int sum = 0;
                 int temp = nums[i];
                 while(temp > 0){
