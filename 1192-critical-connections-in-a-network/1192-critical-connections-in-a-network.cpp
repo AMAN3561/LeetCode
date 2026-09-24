@@ -26,7 +26,7 @@ public:
             }
         }
     }
-    vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {  
+    vector<vector<int>> criticalConnections(int n, const vector<vector<int>>& connections) {  
         vector<vector<int>> ans;
         int parent = -1;
         int src = 0; 
