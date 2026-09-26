@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AMAN3561/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AMAN3561/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/AMAN3561/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AMAN3561/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
