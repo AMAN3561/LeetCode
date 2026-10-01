@@ -36,10 +36,7 @@ public:
         for(int i = 0; i<totalrows; i++){
             for(int j = 0; j<totalcols; j++){
                 if(pacific_visited[i][j] == 1 && atlantic_visited[i][j] ==1){
-                    vector<int> temp;
-                    temp.push_back(i);
-                    temp.push_back(j);
-                    ans.push_back(temp);
+                    ans.push_back({i, j});
                 } 
             }
         }
