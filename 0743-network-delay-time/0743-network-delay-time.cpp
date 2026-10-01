@@ -3,7 +3,7 @@ public:
     typedef pair<int, int> p;
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         priority_queue<p, vector<p>, greater<p>> pq;
-        unordered_map<int, vector<pair<int, int>>> adj;
+        vector<vector<pair<int, int>>> adj(n+1);
         for(auto it: times){
             int u = it[0];
             int v = it[1];
