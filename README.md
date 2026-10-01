@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AMAN3561/LeetCode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/AMAN3561/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1306-jump-game-iii](https://github.com/AMAN3561/LeetCode/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AMAN3561/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AMAN3561/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AMAN3561/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/AMAN3561/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/AMAN3561/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/AMAN3561/LeetCode/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AMAN3561/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1306-jump-game-iii](https://github.com/AMAN3561/LeetCode/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
