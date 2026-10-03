@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AMAN3561/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AMAN3561/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/AMAN3561/LeetCode/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/AMAN3561/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/AMAN3561/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AMAN3561/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -914,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AMAN3561/LeetCode/tree/master/0743-network-delay-time) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AMAN3561/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
