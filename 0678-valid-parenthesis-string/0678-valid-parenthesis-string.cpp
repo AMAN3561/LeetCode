@@ -24,7 +24,6 @@ public:
                 return false;
             }
         }
-        cout<< min <<" "<< max;
         return min == 0;
     }
 };
