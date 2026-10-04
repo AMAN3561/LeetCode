@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AMAN3561/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AMAN3561/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/AMAN3561/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0917-reverse-only-letters](https://github.com/AMAN3561/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/AMAN3561/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AMAN3561/LeetCode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AMAN3561/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AMAN3561/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AMAN3561/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/AMAN3561/LeetCode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AMAN3561/LeetCode/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/AMAN3561/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/AMAN3561/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AMAN3561/LeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AMAN3561/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AMAN3561/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/AMAN3561/LeetCode/tree/master/0853-car-fleet) |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Algorithm X
 |  |
