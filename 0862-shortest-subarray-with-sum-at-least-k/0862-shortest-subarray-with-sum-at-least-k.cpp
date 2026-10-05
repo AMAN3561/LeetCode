@@ -3,8 +3,8 @@ public:
     int shortestSubarray(vector<int>& nums, int k) {
         int n = nums.size();
         int j = 0;
-        vector<long long> cummulative_sum(n, 0);
-        deque<int> dq;
+        vector<long long> cummulative_sum(n, 0); // preffix sum.
+        deque<int> dq; // storing the indices.
         int leng = INT_MAX;
         while(j < n){
             if(j == 0){
