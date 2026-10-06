@@ -7,13 +7,13 @@ public:
         unordered_set<char> special_char;
         string special = "!@#$";
         for(char ch : password){
-            if(ch >= 'a' && ch <= 'z'){
+            if(islower(ch)){
                 lowercase.insert(ch);
             }
-            else if(ch >= 'A' && ch <= 'Z'){
+            else if(isupper(ch)){
                 uppercase.insert(ch);
             }
-            else if(ch >= '0' && ch <= '9'){
+            else if(isdigit(ch)){
                 digits.insert(ch);
             }
             else if(special.find(ch) != string::npos){
