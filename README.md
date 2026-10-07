@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AMAN3561/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/AMAN3561/LeetCode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/AMAN3561/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/AMAN3561/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AMAN3561/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/AMAN3561/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AMAN3561/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AMAN3561/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AMAN3561/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/AMAN3561/LeetCode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
