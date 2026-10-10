@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AMAN3561/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AMAN3561/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AMAN3561/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
 |  |
 | ------- |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
