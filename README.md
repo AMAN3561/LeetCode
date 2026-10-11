@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AMAN3561/LeetCode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AMAN3561/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AMAN3561/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AMAN3561/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AMAN3561/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AMAN3561/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -976,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/AMAN3561/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AMAN3561/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AMAN3561/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
