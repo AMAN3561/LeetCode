@@ -3,26 +3,26 @@ public:
     long long maxAlternatingSum(vector<int>& nums) {
         ///./././././.-> max-heap & greedy approach :
         int n = nums.size();
-        vector<long long> store_ele(n);
+        // vector<long long> store_ele(n);
         priority_queue<long long> pq;
         for(auto x: nums){
             pq.push(1LL * x * x);
         }
         for(int i = 0; i<n; i += 2){
-            store_ele[i] = pq.top();
+            nums[i] = pq.top();
             pq.pop();
         }
         for(int i = 1; i<n; i += 2){
-            store_ele[i] = pq.top();
+            nums[i] = pq.top();
             pq.pop();
         }
         long long ans = 0;
         for(int i = 0; i<n; i++){
             if(i % 2 == 0){
-                ans += store_ele[i];
+                ans += nums[i];
             }
             else{
-                ans -= store_ele[i];
+                ans -= nums[i];
             }
         }
         return ans;
