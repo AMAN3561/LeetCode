@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/AMAN3561/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AMAN3561/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AMAN3561/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AMAN3561/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AMAN3561/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AMAN3561/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AMAN3561/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AMAN3561/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AMAN3561/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AMAN3561/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AMAN3561/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AMAN3561/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AMAN3561/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AMAN3561/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/AMAN3561/LeetCode/tree/master/0743-network-delay-time) |
 | [1192-critical-connections-in-a-network](https://github.com/AMAN3561/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AMAN3561/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AMAN3561/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AMAN3561/LeetCode/tree/master/0684-redundant-connection) |
 | [1631-path-with-minimum-effort](https://github.com/AMAN3561/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
