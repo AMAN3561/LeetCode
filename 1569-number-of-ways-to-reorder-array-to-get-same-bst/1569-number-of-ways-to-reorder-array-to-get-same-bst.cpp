@@ -3,7 +3,7 @@ public:
     typedef long long ll;
     ll MOD = 1e9 + 7;
     vector<vector<ll>> PT;
-    int solve(vector<int>& nums) {
+    ll solve(vector<int>& nums) {
         int n = nums.size();
         if (n < 3) {
             return 1;
