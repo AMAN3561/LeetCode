@@ -14,16 +14,17 @@ public:
         int month = stoi(s.substr(5, 2));
         int year = stoi(s.substr(0, 4));
 
+        
+
+        for(int i = 0; i<month - 1; i++){
+            date += days[i];
+        }
         for (int y = 1971; y < year; y++) {
             if (isLeapYear(y)) {
                 date += 366;
             } else {
                 date += 365;
             }
-        }
-
-        for(int i = 0; i<month - 1; i++){
-            date += days[i];
         }
         if(isLeapYear(year) && month > 2){
             return date + 1;
