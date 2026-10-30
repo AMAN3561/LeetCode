@@ -36,6 +36,27 @@ public:
         }
         return dp[index][target];
     }
+    bool solveUsingTABULATIONSO(vector<int>& nums, int target, int index){
+        int n = nums.size();
+        vector<int> curr(target+1, 0);
+        vector<int> next(target+1, 0);
+        curr[0] = 1;
+        next[0] = 1;
+        for(int Idx = n-1; Idx>=0; Idx--){
+            for(int Tar = 1; Tar<= target; Tar++){
+                bool inc = false;
+                if(Tar - nums[Idx] >= 0){
+                    inc = next[Tar - nums[Idx]];
+                }
+                // Exclude case
+                bool exc= next[Tar];
+                curr[Tar] = (inc || exc); 
+            }
+            // shifting :
+            next = curr;
+        }
+        return next[target];
+    }
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
         int sum = accumulate(nums.begin(),nums.end(), 0);
@@ -44,11 +65,10 @@ public:
         // vector<vector<int>> dp(n, vector<int>(target +1, -1));
         // return solveUsingMEMO(nums,target,0, dp);
         int index = 0;
-        return solveUsingTABULATION(nums, target, index);
+        // return solveUsingTABULATION(nums, target, index);
+        return solveUsingTABULATIONSO(nums, target, index);
     }
 };
-
-
 // practice : 
 
         // bool solve(vector<int>& nums, int target, int index){
