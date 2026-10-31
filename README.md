@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/AMAN3561/LeetCode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/AMAN3561/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AMAN3561/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/AMAN3561/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/AMAN3561/LeetCode/tree/master/1306-jump-game-iii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AMAN3561/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AMAN3561/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AMAN3561/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AMAN3561/LeetCode/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AMAN3561/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AMAN3561/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1753-maximum-score-from-removing-stones](https://github.com/AMAN3561/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AMAN3561/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AMAN3561/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
@@ -911,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/AMAN3561/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/AMAN3561/LeetCode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AMAN3561/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
 ## Minimax
 |  |
@@ -1121,4 +1126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AMAN3561/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
