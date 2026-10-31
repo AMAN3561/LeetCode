@@ -26,9 +26,24 @@ public:
         dp[start][n] = ans;
         return dp[start][n];
     }
+    int solveUsingTABULATION(int start, int n){
+        vector<vector<int>> dp(n+2, vector<int>(n+2, 0));
+        
+        for(int STRT = n; STRT>=start; STRT--){
+            for(int N = STRT; N<=n; N++){
+                if(STRT >= N) continue;
+                int ans = INT_MAX;
+                for(int i = STRT; i<=N; i++){
+                    ans = min(ans, i + max(dp[STRT][i-1], dp[i+1][N]));
+                } 
+                dp[STRT][N] = ans;
+            }
+        }
+        return dp[1][n];
+    }
     int getMoneyAmount(int n) {
-        vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
-        int ans = solveUsingMEMO(1, n, dp);
+        // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
+        int ans = solveUsingTABULATION(1, n);
         return ans;
     }
 };
