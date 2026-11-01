@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AMAN3561/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/AMAN3561/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1143-longest-common-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/AMAN3561/LeetCode/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AMAN3561/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AMAN3561/LeetCode/tree/master/0877-stone-game) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AMAN3561/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AMAN3561/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AMAN3561/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1132,4 +1134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/AMAN3561/LeetCode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
