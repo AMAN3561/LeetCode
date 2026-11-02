@@ -44,13 +44,32 @@ public:
         dp[left][right] = ans;
         return dp[left][right];
     }
+    int solveUsingTABULATION(string& s, int n, int left, int right){
+        // base case :
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+        for(int LEFT = right; LEFT>=left; LEFT--){
+            dp[LEFT][LEFT] = 1;
+            for(int RIGHT = LEFT+1; RIGHT<=right; RIGHT++){
+                int ans = 0;
+                if(s[LEFT] == s[RIGHT]){
+                    ans = 2 +  dp[LEFT+1][RIGHT-1];
+                }
+                else{
+                    ans = 0 + max(dp[LEFT+1][RIGHT], dp[LEFT][RIGHT-1]);
+                }
+                dp[LEFT][RIGHT] = ans;
+            }  
+        }
+        return dp[left][right];
+    }
     int longestPalindromeSubseq(string s) {
         int n = s.length();
         int left = 0;
         int right = n-1;
         vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
         // int ans = solveUsingRec(s, n, left, right);
-        int ans = solveUsingMEMO(s, n, left, right, dp);
+        // int ans = solveUsingMEMO(s, n, left, right, dp);
+        int ans = solveUsingTABULATION(s, n, left, right);
         return ans;
     }
 };
