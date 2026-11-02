@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AMAN3561/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AMAN3561/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AMAN3561/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/AMAN3561/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AMAN3561/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/AMAN3561/LeetCode/tree/master/0649-dota2-senate) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AMAN3561/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AMAN3561/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AMAN3561/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AMAN3561/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AMAN3561/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AMAN3561/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
