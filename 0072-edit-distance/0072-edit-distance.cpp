@@ -70,12 +70,51 @@ public:
         dp[i][j] = ans;
         return dp[i][j];
     }
+    int solveUsingTABULATION(string& word1, string& word2){
+        int n = word1.length();
+        int m = word2.length();
+        vector<vector<int>> dp(n+1, vector<int>(m+1, 0));
+
+        for(int i = 0; i<=n; i++){
+            dp[i][m] = n-i;
+        }
+        for(int j = 0; j<=m; j++){
+            dp[n][j] = m-j;
+        }
+
+        for(int I = n-1; I>=0; I--){
+            for(int J = m-1; J>=0; J--){
+                int ans=0;
+                if(word1[I] == word2[J]){
+                    //match
+                    ans= 0+ dp[I+1][J+1];
+                }
+                else{
+                    //not match 
+                    //operation perform karo
+                    //insert :-
+                    int opt1= 1 + dp[I][J+1];
+                    
+                    // remove :-
+                    int opt2 = 1 + dp[I+1][J];
+
+                    // replace :-
+                    int opt3= 1 + dp[I+1][J+1];
+
+                    ans= min(opt1,min(opt2,opt3));
+                }
+                dp[I][J] = ans;
+            }
+        }
+        return dp[0][0];
+    }
     int minDistance(string word1, string word2) {
         int i=0;
         int j=0;
-        vector<vector<int>> dp(word1.length()+1, vector<int>(word2.length(), -1));
+        // vector<vector<int>> dp(word1.length()+1, vector<int>(word2.length(), -1));
         // int ans= solveUsingRec(word1,word2,i,j);
-        int ans= solveUsingMEMO(word1,word2,i,j, dp);
+        // int ans= solveUsingMEMO(word1,word2,i,j, dp);
+        int ans = solveUsingTABULATION(word1, word2);
         return ans;
     }
 };
