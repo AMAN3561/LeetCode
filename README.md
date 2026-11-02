@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AMAN3561/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AMAN3561/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/AMAN3561/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AMAN3561/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AMAN3561/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AMAN3561/LeetCode/tree/master/0125-valid-palindrome) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AMAN3561/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AMAN3561/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AMAN3561/LeetCode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/AMAN3561/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AMAN3561/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AMAN3561/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AMAN3561/LeetCode/tree/master/0131-palindrome-partitioning) |
