@@ -1,22 +1,35 @@
 class Solution {
 public:
-    // int solveUsingMEMO(vector<int>& nums, int curr, int& prev, vector<vector<int>>& dp){
-    //     // base case: 
-    //     if(curr >= nums.size()){
-    //         return 0;
-    //     }
-    //     if(dp[curr][prev+1] != -1){
-    //         return dp[curr][prev+1];
-    //     }
-    //     int includeAns = 0;
-    //     if(prev == -1 || nums[curr] > nums[prev]){
-    //         includeAns = 1 + solveUsingMEMO(nums, curr+1, curr, dp);
-    //     }
-    //     int excludeAns = 0 + solveUsingMEMO(nums, curr+1, prev, dp);
-    //     int finalAns = max(includeAns, excludeAns);
-    //     dp[curr][prev+1] = finalAns;
-    //     return finalAns; 
-    // }
+        int solveUsingRec(vector<int>& nums, int curr, int& prev){
+        // base case: 
+        if(curr >= nums.size()){
+            return 0;
+        }
+        int includeAns = 0;
+        if(prev == -1 || nums[curr] > nums[prev]){
+            includeAns = 1 + solveUsingRec(nums, curr+1, curr);
+        }
+        int excludeAns = 0 + solveUsingRec(nums, curr+1, prev);
+        int finalAns = max(includeAns, excludeAns);
+        return finalAns; 
+    }
+    int solveUsingMEMO(vector<int>& nums, int curr, int& prev, vector<vector<int>>& dp){
+        // base case: 
+        if(curr >= nums.size()){
+            return 0;
+        }
+        if(dp[curr][prev+1] != -1){
+            return dp[curr][prev+1];
+        }
+        int includeAns = 0;
+        if(prev == -1 || nums[curr] > nums[prev]){
+            includeAns = 1 + solveUsingMEMO(nums, curr+1, curr, dp);
+        }
+        int excludeAns = 0 + solveUsingMEMO(nums, curr+1, prev, dp);
+        int finalAns = max(includeAns, excludeAns);
+        dp[curr][prev+1] = finalAns;
+        return finalAns; 
+    }
     int solveUsingTabulation(vector<int>& nums){
         int n = nums.size();
         vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
@@ -33,13 +46,30 @@ public:
         }
         return dp[0][0];
     }
+    int solveUsingBS(vector<int>& nums){
+        vector<int> ans;
+        ans.push_back(nums[0]);
+        for(int i = 1; i<nums.size(); i++){
+            if(nums[i] > ans.back()){
+                ans.push_back(nums[i]);
+            }
+            else{
+                int idx = lower_bound(ans.begin(), ans.end(), nums[i]) - ans.begin();
+
+                ans[idx] = nums[i];
+            }
+        }
+        return ans.size();
+    }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
         int prev = -1;
         int curr = 0;
+        // int ans = solveUsingRec(nums, curr, prev);
         // vector<vector<int>> dp(n+1, vector<int>(n+1, -1));
         // int ans = solveUsingMEMO(nums, curr, prev, dp);
-        int ans = solveUsingTabulation(nums);
+        // int ans = solveUsingTabulation(nums);
+        int ans = solveUsingBS(nums);
         return ans;
     }
 };
