@@ -9,11 +9,12 @@ public:
             //     moves++;
             //     nums[i] = nums[i] + 1;
             // }
-            if(nums[i] - maxVal != 0){
-                moves++;
-                nums[i] += 1;
-                i--;
-            }
+            // if(nums[i] - maxVal != 0){
+            //     moves++;
+            //     nums[i] += 1;
+            //     i--;
+            // }
+            moves += maxVal - nums[i];
         }
         return moves;
     }
