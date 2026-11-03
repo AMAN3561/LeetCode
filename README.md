@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/AMAN3561/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/AMAN3561/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AMAN3561/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/AMAN3561/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AMAN3561/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AMAN3561/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/AMAN3561/LeetCode/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AMAN3561/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/AMAN3561/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AMAN3561/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AMAN3561/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AMAN3561/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
