@@ -5,9 +5,14 @@ public:
         int moves = 0;
         int maxVal = *max_element(nums.begin(), nums.end());
         for(int i = 0; i<n; i++){
-            while(nums[i] - maxVal != 0){
+            // while(nums[i] - maxVal != 0){
+            //     moves++;
+            //     nums[i] = nums[i] + 1;
+            // }
+            if(nums[i] - maxVal != 0){
                 moves++;
-                nums[i] = nums[i] + 1;
+                nums[i] += 1;
+                i--;
             }
         }
         return moves;
