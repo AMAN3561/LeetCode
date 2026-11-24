@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AMAN3561/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AMAN3561/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AMAN3561/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AMAN3561/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AMAN3561/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AMAN3561/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AMAN3561/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AMAN3561/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AMAN3561/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AMAN3561/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/AMAN3561/LeetCode/tree/master/1776-car-fleet-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AMAN3561/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/AMAN3561/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AMAN3561/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AMAN3561/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AMAN3561/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AMAN3561/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AMAN3561/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AMAN3561/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/AMAN3561/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
@@ -1177,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/AMAN3561/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AMAN3561/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
